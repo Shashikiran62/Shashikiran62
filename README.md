@@ -15,7 +15,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashikiran62&show_icons=true&theme=radical" alt="Shashikiran's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashikiran62&show_icons=true&theme=radical" alt="Shashikiran's GitHub Stats" height="200" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikiran62&layout=compact&theme=radical" alt="Top Languages" height="200" />
 
 </p>
