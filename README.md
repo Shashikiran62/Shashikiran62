@@ -20,9 +20,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashikiran62&theme=radical" alt="GitHub Streak" height="200" />
- 
+  <img src="https://my-streak-stats.vercel.app/?user=Shashikiran62&theme=radical" height="200" />
 </p>
+
 
 
 
