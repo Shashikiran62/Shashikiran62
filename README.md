@@ -19,9 +19,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikiran62&layout=compact&theme=radical" alt="Top Languages" height="190" />
 </p>
 
-<p align="center">
-  <img src="https://my-streak-stats.vercel.app/?user=Shashikiran62&theme=radical" height="200" />
-</p>
+
 
 
 
