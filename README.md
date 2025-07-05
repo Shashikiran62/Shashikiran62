@@ -15,8 +15,10 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashikiran62&show_icons=true&theme=radical" alt="Shashikiran's GitHub Stats" height="190" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikiran62&layout=compact&theme=radical" alt="Top Languages" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashikiran62&show_icons=true&theme=radical" alt="Shashikiran's GitHub Stats" height="190" width="500" />
+</p>
+<p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikiran62&layout=compact&theme=radical" alt="Top Languages" height="190" width ="500" />
 </p>
 
 
