@@ -1,4 +1,4 @@
-# Hi, I'm Shashikiran! 👋
+# Hi, I'm Shashikiran ! 👋
 
 ## 🛠️ Tech Stack
 
