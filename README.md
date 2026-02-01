@@ -19,6 +19,15 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Shashikiran62)
 ![Followers](https://img.shields.io/github/followers/Shashikiran62?label=Followers)
 ![Stars](https://img.shields.io/github/stars/Shashikiran62?label=Stars)
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shashikiran62)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shashikiran62&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashikiran62&theme=radical)
+
+
 ![Snake animation](https://raw.githubusercontent.com/Shashikiran62/Shashikiran62/output/github-contribution-grid-snake.svg)
 
 
