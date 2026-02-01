@@ -14,9 +14,15 @@
 
 ## 📈 GitHub Activity
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shashikiran62)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=Shashikiran62)
 <!--![Followers](https://img.shields.io/github/followers/Shashikiran62?label=Followers)-->
-![Stars](https://img.shields.io/github/stars/Shashikiran62?label=Stars)
+<!--![Stars](https://img.shields.io/github/stars/Shashikiran62?label=Stars)-->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shashikiran62" />
+  <!-- <img src="https://img.shields.io/github/followers/Shashikiran62?label=Followers" /> -->
+  <img src="https://img.shields.io/github/stars/Shashikiran62?label=Stars" />
+</p>
+
 
 
 <!--![GitHub Streak](https://streak-stats.demolab.com?user=Shashikiran62)
