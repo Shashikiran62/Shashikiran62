@@ -14,12 +14,16 @@
 
 
 ## 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shashikiran62&show_icons=true&theme=radical&cache_seconds=86400" />
-</p>
-<p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikiran62&layout=compact&theme=radical" alt="Top Languages" height="190" width ="400" />
-</p>
+## 📈 GitHub Activity
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shashikiran62)
+![Followers](https://img.shields.io/github/followers/Shashikiran62?label=Followers)
+![Stars](https://img.shields.io/github/stars/Shashikiran62?label=Stars)
+![Snake animation](https://raw.githubusercontent.com/Shashikiran62/Shashikiran62/output/github-contribution-grid-snake.svg)
+
+
+
+
 
 
 
