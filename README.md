@@ -18,8 +18,7 @@
 <!--![Followers](https://img.shields.io/github/followers/Shashikiran62?label=Followers)-->
 <!--![Stars](https://img.shields.io/github/stars/Shashikiran62?label=Stars)-->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shashikiran62&theme=github-dark&background=000000" height="180"/>
-  <!-- <img src="https://img.shields.io/github/followers/Shashikiran62?label=Followers" /> -->
+<img src="https://streak-stats.demolab.com?user=Shashikiran62" height="180"/>  <!-- <img src="https://img.shields.io/github/followers/Shashikiran62?label=Followers" /> -->
   <img src="https://img.shields.io/github/stars/Shashikiran62?label=Stars" />
 </p>
 
