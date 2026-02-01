@@ -12,8 +12,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
-
-## 📈 GitHub Stats
 ## 📈 GitHub Activity
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shashikiran62)
@@ -21,11 +19,17 @@
 ![Stars](https://img.shields.io/github/stars/Shashikiran62?label=Stars)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Shashikiran62)
+<!--![GitHub Streak](https://streak-stats.demolab.com?user=Shashikiran62)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashikiran62&theme=radical)
+
 
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shashikiran62&theme=radical) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shashikiran62" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashikiran62&theme=radical" height="180"/>
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashikiran62&theme=radical)
+
 
 
 ![Snake animation](https://raw.githubusercontent.com/Shashikiran62/Shashikiran62/output/github-contribution-grid-snake.svg)
