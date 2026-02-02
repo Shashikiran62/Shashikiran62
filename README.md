@@ -31,7 +31,7 @@
 
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shashikiran62&theme=radical) -->
 <p align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=Shashikiran62&theme=dark&cache_seconds=86400)
+  <img src="https://streak-stats.demolab.com?user=Shashikiran62"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashikiran62&theme=radical" height="180"/>
 </p>
 
