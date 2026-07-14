@@ -1,5 +1,18 @@
-# Hi, I'm Shashikiran! 👋
+<h1 align="center">Hi 👋, I'm Shashikiran</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=800&color=00C4FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Always+Learning+New+Technologies" />
+</p>
 
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Graduate
+- 💻 MERN Stack Developer
+- 🌱 Currently learning Docker, System Design & Backend Development
+- 🚀 Passionate about building scalable web applications
+- 🧩 Competitive Programmer
+- 📍 Karnataka, India
+
+  
 ## 🛠️ Tech Stack 
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
