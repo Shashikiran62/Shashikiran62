@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=800&color=00C4FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Always+Learning+New+Technologies" />
 </p>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me.
 
 - 🎓 Computer Science Graduate
 - 💻 MERN Stack Developer
